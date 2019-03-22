@@ -1,0 +1,17 @@
+15/03/2019 12:03:39 devpinoyLogger Config file loaded !!!
+15/03/2019 12:03:39 devpinoyLogger OR file loaded !!!
+15/03/2019 12:03:53 devpinoyLogger Navigated to : http://www.zoho.com/
+15/03/2019 12:03:55 devpinoyLogger Navigating to the Home Page Method.....
+15/03/2019 12:03:55 devpinoyLogger Moving to Home.gotologin method.....
+15/03/2019 12:03:55 devpinoyLogger Entered the gotologin Method... Home Page Java
+15/03/2019 12:04:05 devpinoyLogger did not find the signup button.....Home Page Java
+15/03/2019 12:04:11 devpinoyLogger Clicking on an Element : loginlink_CSS
+15/03/2019 12:04:11 devpinoyLogger finished clicking on loginlink Css button.... Leaving Home Page Java
+15/03/2019 12:04:12 devpinoyLogger Typing in an Element : email_CSS entered value as : trainer@way2automation.com
+15/03/2019 12:04:12 devpinoyLogger Typing in an Element : password_CSS entered value as : Selenium@123
+15/03/2019 12:04:12 devpinoyLogger Clicking on an Element : signbtn_CSS
+15/03/2019 12:04:15 devpinoyLogger Thread dot sleep executed......Login Page Java
+15/03/2019 12:04:15 devpinoyLogger Finished entering Username and Password.....
+15/03/2019 12:04:15 devpinoyLogger Alert is about to begin....Login Test Java
+15/03/2019 12:04:23 devpinoyLogger Entered the ZohoApppage method..... Create Account test java
+15/03/2019 12:04:23 devpinoyLogger Entered the gotoCRM Method.....Clicking on crmlink css Button.... Zoho App Page Java
